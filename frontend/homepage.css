@@ -249,3 +249,8 @@ footer p {
   font-weight: bold;
   color: white;
 }
+
+#subscribeForm {
+  box-shadow: -40px 28px 50px 1px rgba(0, 0, 0, 1);
+  -webkit-box-shadow: -40px 28px 50px 1px rgba(0, 0, 0, 1);
+}
